@@ -1,0 +1,19 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+node_modules/
+.env
+*.log
+
+# Windows Stockfish binary (too large for git — Railway uses apt-installed stockfish)
+engine/stockfish/stockfish-windows-x86-64-universal.exe
+
+# Temp/dev files
+temp_index.html
+bad.js
+patch.py
+patch1.js
+brace.py
+build_vault.js
+process_vault.py

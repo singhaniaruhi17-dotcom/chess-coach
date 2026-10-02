@@ -1,0 +1,2002 @@
+[
+  {
+    "gameIdx": 0,
+    "moveNum": 3,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "e3",
+    "uci": "e2e3",
+    "fenBefore": "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3",
+    "fenAfter": "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 4,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bb5",
+    "uci": "f1b5",
+    "fenBefore": "r1bqk1nr/pppp1ppp/2n5/2b1p3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 1 4",
+    "fenAfter": "r1bqk1nr/pppp1ppp/2n5/1Bb1p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 2 4"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 5,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "f4",
+    "uci": "f2f4",
+    "fenBefore": "r1bqk1nr/ppp2ppp/2np4/1Bb1p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 5",
+    "fenAfter": "r1bqk1nr/ppp2ppp/2np4/1Bb1p3/5P2/1P2P3/PBPP2PP/RN1QK1NR b KQkq f3 0 5"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 6,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bxg7",
+    "uci": "b2g7",
+    "fenBefore": "r1bqk1nr/ppp2ppp/2np4/1Bb5/5p2/1P2P3/PBPP2PP/RN1QK1NR w KQkq - 0 6",
+    "fenAfter": "r1bqk1nr/ppp2pBp/2np4/1Bb5/5p2/1P2P3/P1PP2PP/RN1QK1NR b KQkq - 0 6"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 7,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Kf1",
+    "uci": "e1f1",
+    "fenBefore": "r1b1k1nr/ppp2pBp/2np4/1Bb5/5p1q/1P2P3/P1PP2PP/RN1QK1NR w KQkq - 1 7",
+    "fenAfter": "r1b1k1nr/ppp2pBp/2np4/1Bb5/5p1q/1P2P3/P1PP2PP/RN1Q1KNR b kq - 2 7"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 8,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Qe2",
+    "uci": "d1e2",
+    "fenBefore": "r1b1k1nr/ppp2pBp/2np4/1Bb5/7q/1P2p3/P1PP2PP/RN1Q1KNR w kq - 0 8",
+    "fenAfter": "r1b1k1nr/ppp2pBp/2np4/1Bb5/7q/1P2p3/P1PPQ1PP/RN3KNR b kq - 1 8"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 9,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Nf3",
+    "uci": "g1f3",
+    "fenBefore": "r3k1nr/ppp2pBp/2np4/1Bb5/6bq/1P2p3/P1PPQ1PP/RN3KNR w kq - 2 9",
+    "fenAfter": "r3k1nr/ppp2pBp/2np4/1Bb5/6bq/1P2pN2/P1PPQ1PP/RN3K1R b kq - 3 9"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 10,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bxc6",
+    "uci": "b5c6",
+    "fenBefore": "2kr2nr/ppp2pBp/2np4/1Bb5/6bq/1P2pN2/P1PPQ1PP/RN3K1R w - - 4 10",
+    "fenAfter": "2kr2nr/ppp2pBp/2Bp4/2b5/6bq/1P2pN2/P1PPQ1PP/RN3K1R b - - 0 10"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 11,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "dxe3",
+    "uci": "d2e3",
+    "fenBefore": "2kr2nr/p1p2pBp/2pp4/2b5/6bq/1P2pN2/P1PPQ1PP/RN3K1R w - - 0 11",
+    "fenAfter": "2kr2nr/p1p2pBp/2pp4/2b5/6bq/1P2PN2/P1P1Q1PP/RN3K1R b - - 0 11"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 12,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bxh8",
+    "uci": "g7h8",
+    "fenBefore": "2k1r1nr/p1p2pBp/2pp4/2b5/6bq/1P2PN2/P1P1Q1PP/RN3K1R w - - 1 12",
+    "fenAfter": "2k1r1nB/p1p2p1p/2pp4/2b5/6bq/1P2PN2/P1P1Q1PP/RN3K1R b - - 0 12"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 13,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Qa6+",
+    "uci": "e2a6",
+    "fenBefore": "2k3nB/p1p2p1p/2pp4/2b5/6bq/1P2rN2/P1P1Q1PP/RN3K1R w - - 0 13",
+    "fenAfter": "2k3nB/p1p2p1p/Q1pp4/2b5/6bq/1P2rN2/P1P3PP/RN3K1R b - - 1 13"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 14,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bd4",
+    "uci": "h8d4",
+    "fenBefore": "6nB/p1pk1p1p/Q1pp4/2b5/6bq/1P2rN2/P1P3PP/RN3K1R w - - 2 14",
+    "fenAfter": "6n1/p1pk1p1p/Q1pp4/2b5/3B2bq/1P2rN2/P1P3PP/RN3K1R b - - 3 14"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 15,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Bxe3",
+    "uci": "d4e3",
+    "fenBefore": "6n1/p1pk1p1p/Q1pp4/2b5/3B3q/1P2rb2/P1P3PP/RN3K1R w - - 0 15",
+    "fenAfter": "6n1/p1pk1p1p/Q1pp4/2b5/7q/1P2Bb2/P1P3PP/RN3K1R b - - 0 15"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 16,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "g3",
+    "uci": "g2g3",
+    "fenBefore": "6n1/p1pk1p1p/Q1pp4/8/7q/1P2bb2/P1P3PP/RN3K1R w - - 0 16",
+    "fenAfter": "6n1/p1pk1p1p/Q1pp4/8/7q/1P2bbP1/P1P4P/RN3K1R b - - 0 16"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 17,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Ke1",
+    "uci": "f1e1",
+    "fenBefore": "6n1/p1pk1p1p/Q1pp4/8/8/1P2bbPq/P1P4P/RN3K1R w - - 1 17",
+    "fenAfter": "6n1/p1pk1p1p/Q1pp4/8/8/1P2bbPq/P1P4P/RN2K2R b - - 2 17"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 18,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Rf1",
+    "uci": "h1f1",
+    "fenBefore": "6n1/p1pk1p1p/Q1pp4/8/8/1P2bbP1/P1P3qP/RN2K2R w - - 3 18",
+    "fenAfter": "6n1/p1pk1p1p/Q1pp4/8/8/1P2bbP1/P1P3qP/RN2KR2 b - - 4 18"
+  },
+  {
+    "gameIdx": 0,
+    "moveNum": 19,
+    "playerColor": "w",
+    "opponent": "AnuBhoi69 (1322)",
+    "san": "Nc3",
+    "uci": "b1c3",
+    "fenBefore": "8/p1pk1p1p/Q1pp1n2/8/8/1P2bbP1/P1P3qP/RN2KR2 w - - 5 19",
+    "fenAfter": "8/p1pk1p1p/Q1pp1n2/8/8/1PN1bbP1/P1P3qP/R3KR2 b - - 6 19"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 3,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "e3",
+    "uci": "e2e3",
+    "fenBefore": "rnb1kbnr/pppp1ppp/5q2/4p3/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3",
+    "fenAfter": "rnb1kbnr/pppp1ppp/5q2/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 4,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Bb5",
+    "uci": "f1b5",
+    "fenBefore": "r1b1kbnr/pppp1ppp/2n2q2/4p3/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 1 4",
+    "fenAfter": "r1b1kbnr/pppp1ppp/2n2q2/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 2 4"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 5,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Bxc6",
+    "uci": "b5c6",
+    "fenBefore": "r1b1kbnr/1ppp1ppp/p1n2q2/1B2p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 5",
+    "fenAfter": "r1b1kbnr/1ppp1ppp/p1B2q2/4p3/8/1P2P3/PBPP1PPP/RN1QK1NR b KQkq - 0 5"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 6,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "f4",
+    "uci": "f2f4",
+    "fenBefore": "r1b1kbnr/1pp2ppp/p1p2q2/4p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq - 0 6",
+    "fenAfter": "r1b1kbnr/1pp2ppp/p1p2q2/4p3/5P2/1P2P3/PBPP2PP/RN1QK1NR b KQkq f3 0 6"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 7,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Nf3",
+    "uci": "g1f3",
+    "fenBefore": "r1b1k1nr/1pp2ppp/p1pb1q2/4p3/5P2/1P2P3/PBPP2PP/RN1QK1NR w KQkq - 1 7",
+    "fenAfter": "r1b1k1nr/1pp2ppp/p1pb1q2/4p3/5P2/1P2PN2/PBPP2PP/RN1QK2R b KQkq - 2 7"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 8,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "fxe5",
+    "uci": "f4e5",
+    "fenBefore": "r3k1nr/1pp2ppp/p1pb1q2/4p3/5Pb1/1P2PN2/PBPP2PP/RN1QK2R w KQkq - 3 8",
+    "fenAfter": "r3k1nr/1pp2ppp/p1pb1q2/4P3/6b1/1P2PN2/PBPP2PP/RN1QK2R b KQkq - 0 8"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 9,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Bxe5",
+    "uci": "b2e5",
+    "fenBefore": "r3k1nr/1pp2ppp/p1p2q2/4b3/6b1/1P2PN2/PBPP2PP/RN1QK2R w KQkq - 0 9",
+    "fenAfter": "r3k1nr/1pp2ppp/p1p2q2/4B3/6b1/1P2PN2/P1PP2PP/RN1QK2R b KQkq - 0 9"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 10,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "O-O",
+    "uci": "e1g1",
+    "fenBefore": "r3k1nr/1pp2ppp/p1p3q1/4B3/6b1/1P2PN2/P1PP2PP/RN1QK2R w KQkq - 1 10",
+    "fenAfter": "r3k1nr/1pp2ppp/p1p3q1/4B3/6b1/1P2PN2/P1PP2PP/RN1Q1RK1 b kq - 2 10"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 11,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Bxc7",
+    "uci": "e5c7",
+    "fenBefore": "r3k2r/1pp1nppp/p1p3q1/4B3/6b1/1P2PN2/P1PP2PP/RN1Q1RK1 w kq - 3 11",
+    "fenAfter": "r3k2r/1pB1nppp/p1p3q1/8/6b1/1P2PN2/P1PP2PP/RN1Q1RK1 b kq - 0 11"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 12,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Qe1",
+    "uci": "d1e1",
+    "fenBefore": "r3k2r/1pB2ppp/p1p3q1/5n2/6b1/1P2PN2/P1PP2PP/RN1Q1RK1 w kq - 1 12",
+    "fenAfter": "r3k2r/1pB2ppp/p1p3q1/5n2/6b1/1P2PN2/P1PP2PP/RN2QRK1 b kq - 2 12"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 13,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Bg3",
+    "uci": "c7g3",
+    "fenBefore": "r3k2r/1pB2ppp/p1p3q1/5n2/8/1P2PN1b/P1PP2PP/RN2QRK1 w kq - 3 13",
+    "fenAfter": "r3k2r/1p3ppp/p1p3q1/5n2/8/1P2PNBb/P1PP2PP/RN2QRK1 b kq - 4 13"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 14,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "gxh3",
+    "uci": "g2h3",
+    "fenBefore": "r3k2r/1p3ppp/p1p3q1/8/8/1P2PNnb/P1PP2PP/RN2QRK1 w kq - 0 14",
+    "fenAfter": "r3k2r/1p3ppp/p1p3q1/8/8/1P2PNnP/P1PP3P/RN2QRK1 b kq - 0 14"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 15,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Kxf1",
+    "uci": "g1f1",
+    "fenBefore": "r3k2r/1p3ppp/p1p3q1/8/8/1P2PN1P/P1PP3P/RN2QnK1 w kq - 0 15",
+    "fenAfter": "r3k2r/1p3ppp/p1p3q1/8/8/1P2PN1P/P1PP3P/RN2QK2 b kq - 0 15"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 16,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Ke2",
+    "uci": "f1e2",
+    "fenBefore": "r3k2r/1p3ppp/p1p5/5q2/8/1P2PN1P/P1PP3P/RN2QK2 w kq - 1 16",
+    "fenAfter": "r3k2r/1p3ppp/p1p5/5q2/8/1P2PN1P/P1PPK2P/RN2Q3 b kq - 2 16"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 17,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Nc3",
+    "uci": "b1c3",
+    "fenBefore": "r3k2r/1p3ppp/p1p5/8/8/1P2PN1P/P1qPK2P/RN2Q3 w kq - 0 17",
+    "fenAfter": "r3k2r/1p3ppp/p1p5/8/8/1PN1PN1P/P1qPK2P/R3Q3 b kq - 1 17"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 18,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Rc1",
+    "uci": "a1c1",
+    "fenBefore": "2kr3r/1p3ppp/p1p5/8/8/1PN1PN1P/P1qPK2P/R3Q3 w - - 2 18",
+    "fenAfter": "2kr3r/1p3ppp/p1p5/8/8/1PN1PN1P/P1qPK2P/2R1Q3 b - - 3 18"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 19,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Kd1",
+    "uci": "e2d1",
+    "fenBefore": "2kr3r/1p3ppp/p1p5/8/8/1PNqPN1P/P2PK2P/2R1Q3 w - - 4 19",
+    "fenAfter": "2kr3r/1p3ppp/p1p5/8/8/1PNqPN1P/P2P3P/2RKQ3 b - - 5 19"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 20,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "e4",
+    "uci": "e3e4",
+    "fenBefore": "2krr3/1p3ppp/p1p5/8/8/1PNqPN1P/P2P3P/2RKQ3 w - - 6 20",
+    "fenAfter": "2krr3/1p3ppp/p1p5/8/4P3/1PNq1N1P/P2P3P/2RKQ3 b - - 0 20"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 21,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Ne2",
+    "uci": "c3e2",
+    "fenBefore": "2krr3/1p3ppp/p1p5/8/4P3/1PN2q1P/P2P3P/2RKQ3 w - - 0 21",
+    "fenAfter": "2krr3/1p3ppp/p1p5/8/4P3/1P3q1P/P2PN2P/2RKQ3 b - - 1 21"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 22,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Rc3",
+    "uci": "c1c3",
+    "fenBefore": "2krr3/1p3ppp/p1p5/8/4q3/1P5P/P2PN2P/2RKQ3 w - - 0 22",
+    "fenAfter": "2krr3/1p3ppp/p1p5/8/4q3/1PR4P/P2PN2P/3KQ3 b - - 1 22"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 23,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Rc1",
+    "uci": "c3c1",
+    "fenBefore": "2krr3/1p3ppp/p1p5/8/8/1PR4P/P2PN2P/1q1KQ3 w - - 2 23",
+    "fenAfter": "2krr3/1p3ppp/p1p5/8/8/1P5P/P2PN2P/1qRKQ3 b - - 3 23"
+  },
+  {
+    "gameIdx": 1,
+    "moveNum": 24,
+    "playerColor": "w",
+    "opponent": "pulungansandi (1311)",
+    "san": "Rc2",
+    "uci": "c1c2",
+    "fenBefore": "2krr3/1p3ppp/p1p5/8/8/1P5P/q2PN2P/2RKQ3 w - - 0 24",
+    "fenAfter": "2krr3/1p3ppp/p1p5/8/8/1P5P/q1RPN2P/3KQ3 b - - 1 24"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 3,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Bg4",
+    "uci": "c8g4",
+    "fenBefore": "rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3",
+    "fenAfter": "rn1qkbnr/pp2pppp/3p4/2p5/2B1P1b1/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 4,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Nc6",
+    "uci": "b8c6",
+    "fenBefore": "rn1qkbnr/pp2pppp/3p4/2p5/2B1P1b1/2P2N2/PP1P1PPP/RNBQK2R b KQkq - 0 4",
+    "fenAfter": "r2qkbnr/pp2pppp/2np4/2p5/2B1P1b1/2P2N2/PP1P1PPP/RNBQK2R w KQkq - 1 5"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 5,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "cxd4",
+    "uci": "c5d4",
+    "fenBefore": "r2qkbnr/pp2pppp/2np4/2p5/2BPP1b1/2P2N2/PP3PPP/RNBQK2R b KQkq d3 0 5",
+    "fenAfter": "r2qkbnr/pp2pppp/2np4/8/2BpP1b1/2P2N2/PP3PPP/RNBQK2R w KQkq - 0 6"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 6,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "a6",
+    "uci": "a7a6",
+    "fenBefore": "r2qkbnr/pp2pppp/2np4/8/2BPP1b1/5N2/PP3PPP/RNBQK2R b KQkq - 0 6",
+    "fenAfter": "r2qkbnr/1p2pppp/p1np4/8/2BPP1b1/5N2/PP3PPP/RNBQK2R w KQkq - 0 7"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 7,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qb6",
+    "uci": "d8b6",
+    "fenBefore": "r2qkbnr/1p2pppp/p1np4/8/3PP1b1/1B3N2/PP3PPP/RNBQK2R b KQkq - 1 7",
+    "fenAfter": "r3kbnr/1p2pppp/pqnp4/8/3PP1b1/1B3N2/PP3PPP/RNBQK2R w KQkq - 2 8"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 8,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qb4+",
+    "uci": "b6b4",
+    "fenBefore": "r3kbnr/1p2pppp/pqnp4/8/3PP1b1/1B2BN2/PP3PPP/RN1QK2R b KQkq - 3 8",
+    "fenAfter": "r3kbnr/1p2pppp/p1np4/8/1q1PP1b1/1B2BN2/PP3PPP/RN1QK2R w KQkq - 4 9"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 9,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Bxf3",
+    "uci": "g4f3",
+    "fenBefore": "r3kbnr/1p2pppp/p1np4/8/1q1PP1b1/1BN1BN2/PP3PPP/R2QK2R b KQkq - 5 9",
+    "fenAfter": "r3kbnr/1p2pppp/p1np4/8/1q1PP3/1BN1Bb2/PP3PPP/R2QK2R w KQkq - 0 10"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 10,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Nf6",
+    "uci": "g8f6",
+    "fenBefore": "r3kbnr/1p2pppp/p1np4/8/1q1PP3/1BN1BQ2/PP3PPP/R3K2R b KQkq - 0 10",
+    "fenAfter": "r3kb1r/1p2pppp/p1np1n2/8/1q1PP3/1BN1BQ2/PP3PPP/R3K2R w KQkq - 1 11"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 11,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Nxd4",
+    "uci": "c6d4",
+    "fenBefore": "r3kb1r/1p2pppp/p1np1n2/8/1q1PP3/1BN1BQ2/PP3PPP/R4RK1 b kq - 2 11",
+    "fenAfter": "r3kb1r/1p2pppp/p2p1n2/8/1q1nP3/1BN1BQ2/PP3PPP/R4RK1 w kq - 0 12"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 12,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qxd4",
+    "uci": "b4d4",
+    "fenBefore": "r3kb1r/1p2pppp/p2p1n2/8/1q1BP3/1BN2Q2/PP3PPP/R4RK1 b kq - 0 12",
+    "fenAfter": "r3kb1r/1p2pppp/p2p1n2/8/3qP3/1BN2Q2/PP3PPP/R4RK1 w kq - 0 13"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 13,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qb6",
+    "uci": "d4b6",
+    "fenBefore": "r3kb1r/1p2pppp/p2p1n2/8/3qP3/1BN2Q2/PP3PPP/3R1RK1 b kq - 1 13",
+    "fenAfter": "r3kb1r/1p2pppp/pq1p1n2/8/4P3/1BN2Q2/PP3PPP/3R1RK1 w kq - 2 14"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 14,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "e5",
+    "uci": "e7e5",
+    "fenBefore": "r3kb1r/1p2pppp/pq1p1n2/8/4P3/1BN2Q2/PP3PPP/3RR1K1 b kq - 3 14",
+    "fenAfter": "r3kb1r/1p3ppp/pq1p1n2/4p3/4P3/1BN2Q2/PP3PPP/3RR1K1 w kq e6 0 15"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 15,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Nxd5",
+    "uci": "f6d5",
+    "fenBefore": "r3kb1r/1p3ppp/pq1p1n2/3Np3/4P3/1B3Q2/PP3PPP/3RR1K1 b kq - 1 15",
+    "fenAfter": "r3kb1r/1p3ppp/pq1p4/3np3/4P3/1B3Q2/PP3PPP/3RR1K1 w kq - 0 16"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 16,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qc7",
+    "uci": "b6c7",
+    "fenBefore": "r3kb1r/1p3ppp/pq1p4/3Bp3/4P3/5Q2/PP3PPP/3RR1K1 b kq - 0 16",
+    "fenAfter": "r3kb1r/1pq2ppp/p2p4/3Bp3/4P3/5Q2/PP3PPP/3RR1K1 w kq - 1 17"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 17,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qd7",
+    "uci": "c7d7",
+    "fenBefore": "r3kb1r/1pq2ppp/p2p4/3Bp3/4P3/5Q2/PP3PPP/2R1R1K1 b kq - 2 17",
+    "fenAfter": "r3kb1r/1p1q1ppp/p2p4/3Bp3/4P3/5Q2/PP3PPP/2R1R1K1 w kq - 3 18"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 18,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "g6",
+    "uci": "g7g6",
+    "fenBefore": "r3kb1r/1p1q1ppp/p2p4/3Bp3/4P3/5Q1P/PP3PP1/2R1R1K1 b kq - 0 18",
+    "fenAfter": "r3kb1r/1p1q1p1p/p2p2p1/3Bp3/4P3/5Q1P/PP3PP1/2R1R1K1 w kq - 0 19"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 19,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rg8",
+    "uci": "h8g8",
+    "fenBefore": "r3kb1r/1p1q1p1p/p2p1Qp1/3Bp3/4P3/7P/PP3PP1/2R1R1K1 b kq - 1 19",
+    "fenAfter": "r3kbr1/1p1q1p1p/p2p1Qp1/3Bp3/4P3/7P/PP3PP1/2R1R1K1 w q - 2 20"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 20,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Bg7",
+    "uci": "f8g7",
+    "fenBefore": "r3kbr1/1p1q1p1p/p2p1Qp1/3Bp3/4P3/2R4P/PP3PP1/4R1K1 b q - 3 20",
+    "fenAfter": "r3k1r1/1p1q1pbp/p2p1Qp1/3Bp3/4P3/2R4P/PP3PP1/4R1K1 w q - 4 21"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 21,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rc8",
+    "uci": "a8c8",
+    "fenBefore": "r3k1r1/1p1q1pbp/p2p2p1/3Bp3/4P3/2R2Q1P/PP3PP1/4R1K1 b q - 5 21",
+    "fenAfter": "2r1k1r1/1p1q1pbp/p2p2p1/3Bp3/4P3/2R2Q1P/PP3PP1/4R1K1 w - - 6 22"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 22,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rf8",
+    "uci": "g8f8",
+    "fenBefore": "2r1k1r1/1p1q1pbp/p2p2p1/3Bp3/4P3/2R2Q1P/PP3PP1/2R3K1 b - - 7 22",
+    "fenAfter": "2r1kr2/1p1q1pbp/p2p2p1/3Bp3/4P3/2R2Q1P/PP3PP1/2R3K1 w - - 8 23"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 23,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rxc3",
+    "uci": "c8c3",
+    "fenBefore": "2r1kr2/1p1q1pbp/p2p2p1/4p3/4P3/1BR2Q1P/PP3PP1/2R3K1 b - - 9 23",
+    "fenAfter": "4kr2/1p1q1pbp/p2p2p1/4p3/4P3/1Br2Q1P/PP3PP1/2R3K1 w - - 0 24"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 24,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "f5",
+    "uci": "f7f5",
+    "fenBefore": "4kr2/1p1q1pbp/p2p2p1/4p3/4P3/1BR2Q1P/PP3PP1/6K1 b - - 0 24",
+    "fenAfter": "4kr2/1p1q2bp/p2p2p1/4pp2/4P3/1BR2Q1P/PP3PP1/6K1 w - f6 0 25"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 25,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rxf5",
+    "uci": "f8f5",
+    "fenBefore": "4kr2/1p1q2bp/p2p2p1/4pP2/8/1BR2Q1P/PP3PP1/6K1 b - - 0 25",
+    "fenAfter": "4k3/1p1q2bp/p2p2p1/4pr2/8/1BR2Q1P/PP3PP1/6K1 w - - 0 26"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 26,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "e4",
+    "uci": "e5e4",
+    "fenBefore": "4k3/1p1q2bp/p2p2p1/3Qpr2/8/1BR4P/PP3PP1/6K1 b - - 1 26",
+    "fenAfter": "4k3/1p1q2bp/p2p2p1/3Q1r2/4p3/1BR4P/PP3PP1/6K1 w - - 0 27"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 27,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rf8",
+    "uci": "f5f8",
+    "fenBefore": "4k1Q1/1p1q2bp/p2p2p1/5r2/4p3/1BR4P/PP3PP1/6K1 b - - 1 27",
+    "fenAfter": "4krQ1/1p1q2bp/p2p2p1/8/4p3/1BR4P/PP3PP1/6K1 w - - 2 28"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 28,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Bxc3",
+    "uci": "g7c3",
+    "fenBefore": "4kr2/1p1q2bp/p2p2p1/3Q4/4p3/1BR4P/PP3PP1/6K1 b - - 3 28",
+    "fenAfter": "4kr2/1p1q3p/p2p2p1/3Q4/4p3/1Bb4P/PP3PP1/6K1 w - - 0 29"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 29,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qf5",
+    "uci": "d7f5",
+    "fenBefore": "4kr2/1p1q3p/p2p2p1/3Q4/4p3/1BP4P/P4PP1/6K1 b - - 0 29",
+    "fenAfter": "4kr2/1p5p/p2p2p1/3Q1q2/4p3/1BP4P/P4PP1/6K1 w - - 1 30"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 30,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Ke7",
+    "uci": "e8e7",
+    "fenBefore": "4kr2/1p5p/p2p2p1/3Q1q2/B3p3/2P4P/P4PP1/6K1 b - - 2 30",
+    "fenAfter": "5r2/1p2k2p/p2p2p1/3Q1q2/B3p3/2P4P/P4PP1/6K1 w - - 3 31"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 31,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kf6",
+    "uci": "e7f6",
+    "fenBefore": "5r2/1Q2k2p/p2p2p1/5q2/B3p3/2P4P/P4PP1/6K1 b - - 0 31",
+    "fenAfter": "5r2/1Q5p/p2p1kp1/5q2/B3p3/2P4P/P4PP1/6K1 w - - 1 32"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 32,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kg5",
+    "uci": "f6g5",
+    "fenBefore": "5r2/7p/Q2p1kp1/5q2/B3p3/2P4P/P4PP1/6K1 b - - 0 32",
+    "fenAfter": "5r2/7p/Q2p2p1/5qk1/B3p3/2P4P/P4PP1/6K1 w - - 1 33"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 33,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "d5",
+    "uci": "d6d5",
+    "fenBefore": "5r2/7p/3p2p1/5qk1/B3p3/2P4P/P3QPP1/6K1 b - - 2 33",
+    "fenAfter": "5r2/7p/6p1/3p1qk1/B3p3/2P4P/P3QPP1/6K1 w - - 0 34"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 34,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qe5",
+    "uci": "f5e5",
+    "fenBefore": "5r2/7p/6p1/3p1qk1/4p3/2P4P/P1B1QPP1/6K1 b - - 1 34",
+    "fenAfter": "5r2/7p/6p1/3pq1k1/4p3/2P4P/P1B1QPP1/6K1 w - - 2 35"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 35,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kf6",
+    "uci": "g5f6",
+    "fenBefore": "5r2/7p/6p1/3pq1k1/4p3/2P1Q2P/P1B2PP1/6K1 b - - 3 35",
+    "fenAfter": "5r2/7p/5kp1/3pq3/4p3/2P1Q2P/P1B2PP1/6K1 w - - 4 36"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 36,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rc8",
+    "uci": "f8c8",
+    "fenBefore": "5r2/7p/5kp1/3pq3/P3p3/2P1Q2P/2B2PP1/6K1 b - a3 0 36",
+    "fenAfter": "2r5/7p/5kp1/3pq3/P3p3/2P1Q2P/2B2PP1/6K1 w - - 1 37"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 37,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kf5",
+    "uci": "f6f5",
+    "fenBefore": "2r5/7p/1Q3kp1/3pq3/P3p3/2P4P/2B2PP1/6K1 b - - 2 37",
+    "fenAfter": "2r5/7p/1Q4p1/3pqk2/P3p3/2P4P/2B2PP1/6K1 w - - 3 38"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 38,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kg5",
+    "uci": "f5g5",
+    "fenBefore": "2r5/7p/1Q4p1/3pqk2/P3p1P1/2P4P/2B2P2/6K1 b - g3 0 38",
+    "fenAfter": "2r5/7p/1Q4p1/3pq1k1/P3p1P1/2P4P/2B2P2/6K1 w - - 1 39"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 39,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Qf4",
+    "uci": "e5f4",
+    "fenBefore": "2r5/7p/6p1/3pq1k1/P3p1P1/2P1Q2P/2B2P2/6K1 b - - 2 39",
+    "fenAfter": "2r5/7p/6p1/3p2k1/P3pqP1/2P1Q2P/2B2P2/6K1 w - - 3 40"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 40,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kxh4",
+    "uci": "g5h4",
+    "fenBefore": "2r5/7p/6p1/3p2k1/P3pqPP/2P1Q3/2B2P2/6K1 b - - 0 40",
+    "fenAfter": "2r5/7p/6p1/3p4/P3pqPk/2P1Q3/2B2P2/6K1 w - - 0 41"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 41,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Rxc3",
+    "uci": "c8c3",
+    "fenBefore": "2r5/7p/6p1/3p4/P3pQPk/2P5/2B2P2/6K1 b - - 0 41",
+    "fenAfter": "8/7p/6p1/3p4/P3pQPk/2r5/2B2P2/6K1 w - - 0 42"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 42,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "d4",
+    "uci": "d5d4",
+    "fenBefore": "8/7p/6p1/3p4/P3p1Pk/2r5/2BQ1P2/6K1 b - - 1 42",
+    "fenAfter": "8/7p/6p1/8/P2pp1Pk/2r5/2BQ1P2/6K1 w - - 0 43"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 43,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Ra3",
+    "uci": "c3a3",
+    "fenBefore": "8/7p/6p1/8/P2pB1Pk/2r5/3Q1P2/6K1 b - - 0 43",
+    "fenAfter": "8/7p/6p1/8/P2pB1Pk/r7/3Q1P2/6K1 w - - 1 44"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 44,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kh3",
+    "uci": "h4h3",
+    "fenBefore": "8/7p/6p1/P7/3pB1Pk/r7/3Q1P2/6K1 b - - 0 44",
+    "fenAfter": "8/7p/6p1/P7/3pB1P1/r6k/3Q1P2/6K1 w - - 1 45"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 45,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kxg4",
+    "uci": "h3g4",
+    "fenBefore": "8/7p/6p1/P7/3p2P1/r6k/3Q1PB1/6K1 b - - 2 45",
+    "fenAfter": "8/7p/6p1/P7/3p2k1/r7/3Q1PB1/6K1 w - - 0 46"
+  },
+  {
+    "gameIdx": 2,
+    "moveNum": 46,
+    "playerColor": "b",
+    "opponent": "Czesiek92 (1329)",
+    "san": "Kg5",
+    "uci": "g4g5",
+    "fenBefore": "8/7p/6p1/P7/3Q2k1/r7/5PB1/6K1 b - - 0 46",
+    "fenAfter": "8/7p/6p1/P5k1/3Q4/r7/5PB1/6K1 w - - 1 47"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 3,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Nc6",
+    "uci": "b8c6",
+    "fenBefore": "rnbqkbnr/pp2pppp/3p4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq - 1 3",
+    "fenAfter": "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/5N2/PPPP1PPP/RNBQK2R w KQkq - 2 4"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 4,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "a6",
+    "uci": "a7a6",
+    "fenBefore": "r1bqkbnr/pp2pppp/2np4/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R b KQkq - 3 4",
+    "fenAfter": "r1bqkbnr/1p2pppp/p1np4/2p5/2B1P3/2N2N2/PPPP1PPP/R1BQK2R w KQkq - 0 5"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 5,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Nf6",
+    "uci": "g8f6",
+    "fenBefore": "r1bqkbnr/1p2pppp/p1np4/2p5/2B1P3/P1N2N2/1PPP1PPP/R1BQK2R b KQkq - 0 5",
+    "fenAfter": "r1bqkb1r/1p2pppp/p1np1n2/2p5/2B1P3/P1N2N2/1PPP1PPP/R1BQK2R w KQkq - 1 6"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 6,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "e6",
+    "uci": "e7e6",
+    "fenBefore": "r1bqkb1r/1p2pppp/p1np1n2/2pN4/2B1P3/P4N2/1PPP1PPP/R1BQK2R b KQkq - 2 6",
+    "fenAfter": "r1bqkb1r/1p3ppp/p1nppn2/2pN4/2B1P3/P4N2/1PPP1PPP/R1BQK2R w KQkq - 0 7"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 7,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qxf6",
+    "uci": "d8f6",
+    "fenBefore": "r1bqkb1r/1p3ppp/p1nppN2/2p5/2B1P3/P4N2/1PPP1PPP/R1BQK2R b KQkq - 0 7",
+    "fenAfter": "r1b1kb1r/1p3ppp/p1nppq2/2p5/2B1P3/P4N2/1PPP1PPP/R1BQK2R w KQkq - 0 8"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 8,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Ne5",
+    "uci": "c6e5",
+    "fenBefore": "r1b1kb1r/1p3ppp/p1nppq2/2p5/2B1P3/P2P1N2/1PP2PPP/R1BQK2R b KQkq - 0 8",
+    "fenAfter": "r1b1kb1r/1p3ppp/p2ppq2/2p1n3/2B1P3/P2P1N2/1PP2PPP/R1BQK2R w KQkq - 1 9"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 9,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qxe5",
+    "uci": "f6e5",
+    "fenBefore": "r1b1kb1r/1p3ppp/p2ppq2/2p1N3/2B1P3/P2P4/1PP2PPP/R1BQK2R b KQkq - 0 9",
+    "fenAfter": "r1b1kb1r/1p3ppp/p2pp3/2p1q3/2B1P3/P2P4/1PP2PPP/R1BQK2R w KQkq - 0 10"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 10,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Be7",
+    "uci": "f8e7",
+    "fenBefore": "r1b1kb1r/1p3ppp/p2pp3/2p1q3/2B1P3/P2P4/1PP2PPP/R1BQ1RK1 b kq - 1 10",
+    "fenAfter": "r1b1k2r/1p2bppp/p2pp3/2p1q3/2B1P3/P2P4/1PP2PPP/R1BQ1RK1 w kq - 2 11"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 11,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "O-O",
+    "uci": "e8g8",
+    "fenBefore": "r1b1k2r/1p2bppp/p2pp3/2p1q3/2B1P3/P2P1Q2/1PP2PPP/R1B2RK1 b kq - 3 11",
+    "fenAfter": "r1b2rk1/1p2bppp/p2pp3/2p1q3/2B1P3/P2P1Q2/1PP2PPP/R1B2RK1 w - - 4 12"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 12,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "b5",
+    "uci": "b7b5",
+    "fenBefore": "r1b2rk1/1p2bppp/p2pp3/2p1q3/2B1P3/P2P1Q2/1PP2PPP/1RB2RK1 b - - 5 12",
+    "fenAfter": "r1b2rk1/4bppp/p2pp3/1pp1q3/2B1P3/P2P1Q2/1PP2PPP/1RB2RK1 w - b6 0 13"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 13,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Bg5",
+    "uci": "e7g5",
+    "fenBefore": "r1b2rk1/4bppp/p2pp3/1pp1q3/4P3/P2P1Q2/BPP2PPP/1RB2RK1 b - - 1 13",
+    "fenAfter": "r1b2rk1/5ppp/p2pp3/1pp1q1b1/4P3/P2P1Q2/BPP2PPP/1RB2RK1 w - - 2 14"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 14,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qxg5",
+    "uci": "e5g5",
+    "fenBefore": "r1b2rk1/5ppp/p2pp3/1pp1q1B1/4P3/P2P1Q2/BPP2PPP/1R3RK1 b - - 0 14",
+    "fenAfter": "r1b2rk1/5ppp/p2pp3/1pp3q1/4P3/P2P1Q2/BPP2PPP/1R3RK1 w - - 0 15"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 15,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qd2",
+    "uci": "g5d2",
+    "fenBefore": "r1b2rk1/5ppp/p2pp3/1pp3q1/4P3/P2P2Q1/BPP2PPP/1R3RK1 b - - 1 15",
+    "fenAfter": "r1b2rk1/5ppp/p2pp3/1pp5/4P3/P2P2Q1/BPPq1PPP/1R3RK1 w - - 2 16"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 16,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "a5",
+    "uci": "a6a5",
+    "fenBefore": "r1b2rk1/5ppp/p2pp3/1pp5/4P3/P1PP2Q1/BP1q1PPP/1R3RK1 b - - 0 16",
+    "fenAfter": "r1b2rk1/5ppp/3pp3/ppp5/4P3/P1PP2Q1/BP1q1PPP/1R3RK1 w - - 0 17"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 17,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "b4",
+    "uci": "b5b4",
+    "fenBefore": "r1b2rk1/5ppp/3pp3/ppp5/4P3/PBPP2Q1/1P1q1PPP/1R3RK1 b - - 1 17",
+    "fenAfter": "r1b2rk1/5ppp/3pp3/p1p5/1p2P3/PBPP2Q1/1P1q1PPP/1R3RK1 w - - 0 18"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 18,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "bxc3",
+    "uci": "b4c3",
+    "fenBefore": "r1b2rk1/5ppp/3pp3/p1p5/1p2PP2/PBPP2Q1/1P1q2PP/1R3RK1 b - f3 0 18",
+    "fenAfter": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PBpP2Q1/1P1q2PP/1R3RK1 w - - 0 19"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 19,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "c2",
+    "uci": "c3c2",
+    "fenBefore": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PBpP2Q1/1P1q2PP/1R1R2K1 b - - 1 19",
+    "fenAfter": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PB1P2Q1/1Ppq2PP/1R1R2K1 w - - 0 20"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 20,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "cxb1=Q+",
+    "uci": "c2b1q",
+    "fenBefore": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PB1P2Q1/1PpR2PP/1R4K1 b - - 0 20",
+    "fenAfter": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PB1P2Q1/1P1R2PP/1q4K1 w - - 0 21"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 21,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rb8",
+    "uci": "a8b8",
+    "fenBefore": "r1b2rk1/5ppp/3pp3/p1p5/4PP2/PB1P2Q1/1P1R1KPP/1q6 b - - 1 21",
+    "fenAfter": "1rb2rk1/5ppp/3pp3/p1p5/4PP2/PB1P2Q1/1P1R1KPP/1q6 w - - 2 22"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 22,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rxb2",
+    "uci": "b8b2",
+    "fenBefore": "1rb2rk1/5ppp/3pp3/p1p5/2B1PP2/P2P2Q1/1P1R1KPP/1q6 b - - 3 22",
+    "fenAfter": "2b2rk1/5ppp/3pp3/p1p5/2B1PP2/P2P2Q1/1r1R1KPP/1q6 w - - 0 23"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 23,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Bd7",
+    "uci": "c8d7",
+    "fenBefore": "2b2rk1/5ppp/3pp3/p1p5/2B1PP2/P2PQ3/1r1R1KPP/1q6 b - - 1 23",
+    "fenAfter": "5rk1/3b1ppp/3pp3/p1p5/2B1PP2/P2PQ3/1r1R1KPP/1q6 w - - 2 24"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 24,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rxd2",
+    "uci": "b2d2",
+    "fenBefore": "5rk1/3b1ppp/3pp3/p1p5/2B1PP2/P2PQ1K1/1r1R2PP/1q6 b - - 3 24",
+    "fenAfter": "5rk1/3b1ppp/3pp3/p1p5/2B1PP2/P2PQ1K1/3r2PP/1q6 w - - 0 25"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 25,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qb8",
+    "uci": "b1b8",
+    "fenBefore": "5rk1/3b1ppp/3pp3/p1p5/2B1PP2/P2P2K1/3Q2PP/1q6 b - - 0 25",
+    "fenAfter": "1q3rk1/3b1ppp/3pp3/p1p5/2B1PP2/P2P2K1/3Q2PP/8 w - - 1 26"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 26,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "h5",
+    "uci": "h7h5",
+    "fenBefore": "1q3rk1/3b1ppp/3pp3/Q1p5/2B1PP2/P2P2K1/6PP/8 b - - 0 26",
+    "fenAfter": "1q3rk1/3b1pp1/3pp3/Q1p4p/2B1PP2/P2P2K1/6PP/8 w - h6 0 27"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 27,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Bc6",
+    "uci": "d7c6",
+    "fenBefore": "1q3rk1/3b1pp1/3pp3/2p4p/2B1PP2/P2P2K1/3Q2PP/8 b - - 1 27",
+    "fenAfter": "1q3rk1/5pp1/2bpp3/2p4p/2B1PP2/P2P2K1/3Q2PP/8 w - - 2 28"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 28,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "d5",
+    "uci": "d6d5",
+    "fenBefore": "1q3rk1/5pp1/2bpp3/2p4p/2B1PP2/P2P2K1/4Q1PP/8 b - - 3 28",
+    "fenAfter": "1q3rk1/5pp1/2b1p3/2pp3p/2B1PP2/P2P2K1/4Q1PP/8 w - - 0 29"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 29,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "exd5",
+    "uci": "e6d5",
+    "fenBefore": "1q3rk1/5pp1/2b1p3/2pP3p/2B2P2/P2P2K1/4Q1PP/8 b - - 0 29",
+    "fenAfter": "1q3rk1/5pp1/2b5/2pp3p/2B2P2/P2P2K1/4Q1PP/8 w - - 0 30"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 30,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Re8",
+    "uci": "f8e8",
+    "fenBefore": "1q3rk1/5pp1/2b5/2pp3p/5P2/P2P2K1/B3Q1PP/8 b - - 1 30",
+    "fenAfter": "1q2r1k1/5pp1/2b5/2pp3p/5P2/P2P2K1/B3Q1PP/8 w - - 2 31"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 31,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Re3+",
+    "uci": "e8e3",
+    "fenBefore": "1q2r1k1/5pp1/2b5/2pp3Q/5P2/P2P2K1/B5PP/8 b - - 0 31",
+    "fenAfter": "1q4k1/5pp1/2b5/2pp3Q/5P2/P2Pr1K1/B5PP/8 w - - 1 32"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 32,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qxf4+",
+    "uci": "b8f4",
+    "fenBefore": "1q4k1/5pp1/2b5/2pp3Q/5P1K/P2Pr3/B5PP/8 b - - 2 32",
+    "fenAfter": "6k1/5pp1/2b5/2pp3Q/5q1K/P2Pr3/B5PP/8 w - - 0 33"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 33,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Qxg4+",
+    "uci": "f4g4",
+    "fenBefore": "6k1/5pp1/2b5/2pp4/5qQK/P2Pr3/B5PP/8 b - - 1 33",
+    "fenAfter": "6k1/5pp1/2b5/2pp4/6qK/P2Pr3/B5PP/8 w - - 0 34"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 34,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rxd3",
+    "uci": "e3d3",
+    "fenBefore": "6k1/5pp1/2b5/2pp4/6K1/P2Pr3/B5PP/8 b - - 0 34",
+    "fenAfter": "6k1/5pp1/2b5/2pp4/6K1/P2r4/B5PP/8 w - - 0 35"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 35,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rd2",
+    "uci": "d3d2",
+    "fenBefore": "6k1/5pp1/2b5/2pp4/6KP/P2r4/B5P1/8 b - h3 0 35",
+    "fenAfter": "6k1/5pp1/2b5/2pp4/6KP/P7/B2r2P1/8 w - - 1 36"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 36,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rxg2+",
+    "uci": "d2g2",
+    "fenBefore": "6k1/5pp1/2b5/2pp4/6KP/P7/3r2P1/1B6 b - - 2 36",
+    "fenAfter": "6k1/5pp1/2b5/2pp4/6KP/P7/6r1/1B6 w - - 0 37"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 37,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Rb2",
+    "uci": "g2b2",
+    "fenBefore": "6k1/5pp1/2b5/2pp4/7P/P6K/6r1/1B6 b - - 1 37",
+    "fenAfter": "6k1/5pp1/2b5/2pp4/7P/P6K/1r6/1B6 w - - 2 38"
+  },
+  {
+    "gameIdx": 3,
+    "moveNum": 38,
+    "playerColor": "b",
+    "opponent": "vijayasaharan (1316)",
+    "san": "Ra2",
+    "uci": "b2a2",
+    "fenBefore": "6k1/5pp1/2b5/2pp1B2/7P/P6K/1r6/8 b - - 3 38",
+    "fenAfter": "6k1/5pp1/2b5/2pp1B2/7P/P6K/r7/8 w - - 4 39"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 3,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "e3",
+    "uci": "e2e3",
+    "fenBefore": "rnbqkb1r/ppp1pppp/5n2/3p4/8/1P6/PBPPPPPP/RN1QKBNR w KQkq - 2 3",
+    "fenAfter": "rnbqkb1r/ppp1pppp/5n2/3p4/8/1P2P3/PBPP1PPP/RN1QKBNR b KQkq - 0 3"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 4,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "f4",
+    "uci": "f2f4",
+    "fenBefore": "rnbqkb1r/ppp2ppp/4pn2/3p4/8/1P2P3/PBPP1PPP/RN1QKBNR w KQkq - 0 4",
+    "fenAfter": "rnbqkb1r/ppp2ppp/4pn2/3p4/5P2/1P2P3/PBPP2PP/RN1QKBNR b KQkq f3 0 4"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 5,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Nf3",
+    "uci": "g1f3",
+    "fenBefore": "rnbqk2r/ppp1bppp/4pn2/3p4/5P2/1P2P3/PBPP2PP/RN1QKBNR w KQkq - 1 5",
+    "fenAfter": "rnbqk2r/ppp1bppp/4pn2/3p4/5P2/1P2PN2/PBPP2PP/RN1QKB1R b KQkq - 2 5"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 6,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Bb5",
+    "uci": "f1b5",
+    "fenBefore": "r1bqk2r/ppp1bppp/2n1pn2/3p4/5P2/1P2PN2/PBPP2PP/RN1QKB1R w KQkq - 3 6",
+    "fenAfter": "r1bqk2r/ppp1bppp/2n1pn2/1B1p4/5P2/1P2PN2/PBPP2PP/RN1QK2R b KQkq - 4 6"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 7,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ne5",
+    "uci": "f3e5",
+    "fenBefore": "r2qk2r/pppbbppp/2n1pn2/1B1p4/5P2/1P2PN2/PBPP2PP/RN1QK2R w KQkq - 5 7",
+    "fenAfter": "r2qk2r/pppbbppp/2n1pn2/1B1pN3/5P2/1P2P3/PBPP2PP/RN1QK2R b KQkq - 6 7"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 8,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "fxe5",
+    "uci": "f4e5",
+    "fenBefore": "r2qk2r/pppbbppp/4pn2/1B1pn3/5P2/1P2P3/PBPP2PP/RN1QK2R w KQkq - 0 8",
+    "fenAfter": "r2qk2r/pppbbppp/4pn2/1B1pP3/8/1P2P3/PBPP2PP/RN1QK2R b KQkq - 0 8"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 9,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Bxd7+",
+    "uci": "b5d7",
+    "fenBefore": "r2qk1nr/pppbbppp/4p3/1B1pP3/8/1P2P3/PBPP2PP/RN1QK2R w KQkq - 1 9",
+    "fenAfter": "r2qk1nr/pppBbppp/4p3/3pP3/8/1P2P3/PBPP2PP/RN1QK2R b KQkq - 0 9"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 10,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "O-O",
+    "uci": "e1g1",
+    "fenBefore": "r3k1nr/pppqbppp/4p3/3pP3/8/1P2P3/PBPP2PP/RN1QK2R w KQkq - 0 10",
+    "fenAfter": "r3k1nr/pppqbppp/4p3/3pP3/8/1P2P3/PBPP2PP/RN1Q1RK1 b kq - 1 10"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 11,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rf3",
+    "uci": "f1f3",
+    "fenBefore": "r3k2r/pppqbppp/4p2n/3pP3/8/1P2P3/PBPP2PP/RN1Q1RK1 w kq - 2 11",
+    "fenAfter": "r3k2r/pppqbppp/4p2n/3pP3/8/1P2PR2/PBPP2PP/RN1Q2K1 b kq - 3 11"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 12,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "d3",
+    "uci": "d2d3",
+    "fenBefore": "r3k2r/pppqbppp/4p3/3pPn2/8/1P2PR2/PBPP2PP/RN1Q2K1 w kq - 4 12",
+    "fenAfter": "r3k2r/pppqbppp/4p3/3pPn2/8/1P1PPR2/PBP3PP/RN1Q2K1 b kq - 0 12"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 13,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "a4",
+    "uci": "a2a4",
+    "fenBefore": "2kr3r/pppqbppp/4p3/3pPn2/8/1P1PPR2/PBP3PP/RN1Q2K1 w - - 1 13",
+    "fenAfter": "2kr3r/pppqbppp/4p3/3pPn2/P7/1P1PPR2/1BP3PP/RN1Q2K1 b - a3 0 13"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 14,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "a5",
+    "uci": "a4a5",
+    "fenBefore": "2kr3r/pp1qbppp/4p3/2ppPn2/P7/1P1PPR2/1BP3PP/RN1Q2K1 w - c6 0 14",
+    "fenAfter": "2kr3r/pp1qbppp/4p3/P1ppPn2/8/1P1PPR2/1BP3PP/RN1Q2K1 b - - 0 14"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 15,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Nd2",
+    "uci": "b1d2",
+    "fenBefore": "2kr3r/1p1qbppp/p3p3/P1ppPn2/8/1P1PPR2/1BP3PP/RN1Q2K1 w - - 0 15",
+    "fenAfter": "2kr3r/1p1qbppp/p3p3/P1ppPn2/8/1P1PPR2/1BPN2PP/R2Q2K1 b - - 1 15"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 16,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "exd4",
+    "uci": "e3d4",
+    "fenBefore": "2kr3r/1p1qbppp/p3p3/P1p1Pn2/3p4/1P1PPR2/1BPN2PP/R2Q2K1 w - - 0 16",
+    "fenAfter": "2kr3r/1p1qbppp/p3p3/P1p1Pn2/3P4/1P1P1R2/1BPN2PP/R2Q2K1 b - - 0 16"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 17,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ne4",
+    "uci": "d2e4",
+    "fenBefore": "2kr3r/1p1qbppp/p3p3/P3Pn2/3p4/1P1P1R2/1BPN2PP/R2Q2K1 w - - 0 17",
+    "fenAfter": "2kr3r/1p1qbppp/p3p3/P3Pn2/3pN3/1P1P1R2/1BP3PP/R2Q2K1 b - - 1 17"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 18,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ba3",
+    "uci": "b2a3",
+    "fenBefore": "1k1r3r/1p1qbppp/p3p3/P3Pn2/3pN3/1P1P1R2/1BP3PP/R2Q2K1 w - - 2 18",
+    "fenAfter": "1k1r3r/1p1qbppp/p3p3/P3Pn2/3pN3/BP1P1R2/2P3PP/R2Q2K1 b - - 3 18"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 19,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rxa3",
+    "uci": "a1a3",
+    "fenBefore": "1k1r3r/1p1q1ppp/p3p3/P3Pn2/3pN3/bP1P1R2/2P3PP/R2Q2K1 w - - 0 19",
+    "fenAfter": "1k1r3r/1p1q1ppp/p3p3/P3Pn2/3pN3/RP1P1R2/2P3PP/3Q2K1 b - - 0 19"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 20,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qf1",
+    "uci": "d1f1",
+    "fenBefore": "1k1r3r/1p3ppp/p3p3/P2qPn2/3pN3/RP1P1R2/2P3PP/3Q2K1 w - - 1 20",
+    "fenAfter": "1k1r3r/1p3ppp/p3p3/P2qPn2/3pN3/RP1P1R2/2P3PP/5QK1 b - - 2 20"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 21,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ra1",
+    "uci": "a3a1",
+    "fenBefore": "1k1r3r/1p3ppp/p3p3/P3qn2/3pN3/RP1P1R2/2P3PP/5QK1 w - - 0 21",
+    "fenAfter": "1k1r3r/1p3ppp/p3p3/P3qn2/3pN3/1P1P1R2/2P3PP/R4QK1 b - - 1 21"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 22,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rh3",
+    "uci": "f3h3",
+    "fenBefore": "1k1r3r/1p3ppp/p3p3/P3q3/3pN2n/1P1P1R2/2P3PP/R4QK1 w - - 2 22",
+    "fenAfter": "1k1r3r/1p3ppp/p3p3/P3q3/3pN2n/1P1P3R/2P3PP/R4QK1 b - - 3 22"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 23,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rf3",
+    "uci": "h3f3",
+    "fenBefore": "1k1r3r/1p3ppp/p3p3/P3qn2/3pN3/1P1P3R/2P3PP/R4QK1 w - - 4 23",
+    "fenAfter": "1k1r3r/1p3ppp/p3p3/P3qn2/3pN3/1P1P1R2/2P3PP/R4QK1 b - - 5 23"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 24,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qf2",
+    "uci": "f1f2",
+    "fenBefore": "1k1r3r/1p3ppp/p3p3/P3q3/3pN3/1P1PnR2/2P3PP/R4QK1 w - - 6 24",
+    "fenAfter": "1k1r3r/1p3ppp/p3p3/P3q3/3pN3/1P1PnR2/2P2QPP/R5K1 b - - 7 24"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 25,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ng5",
+    "uci": "e4g5",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P3qp2/3pN3/1P1PnR2/2P2QPP/R5K1 w - f6 0 25",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P3qpN1/3p4/1P1PnR2/2P2QPP/R5K1 b - - 1 25"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 26,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qe1",
+    "uci": "f2e1",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P3qpN1/3p2n1/1P1P1R2/2P2QPP/R5K1 w - - 2 26",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P3qpN1/3p2n1/1P1P1R2/2P3PP/R3Q1K1 b - - 3 26"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 27,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kf1",
+    "uci": "g1f1",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P3Pq/R3Q1K1 w - - 0 27",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P3Pq/R3QK2 b - - 1 27"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 28,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ke2",
+    "uci": "f1e2",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P3P1/R3QK1q w - - 2 28",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P1K1P1/R3Q2q b - - 3 28"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 29,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kd1",
+    "uci": "e2d1",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P1K1q1/R3Q3 w - - 0 29",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P4pN1/3p2n1/1P1P1R2/2P3q1/R2KQ3 b - - 1 29"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 30,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rxe3",
+    "uci": "f3e3",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P4pN1/3p4/1P1PnR2/2P3q1/R2KQ3 w - - 2 30",
+    "fenAfter": "1k1r3r/1p4pp/p3p3/P4pN1/3p4/1P1PR3/2P3q1/R2KQ3 b - - 0 30"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 31,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Nf7",
+    "uci": "g5f7",
+    "fenBefore": "1k1r3r/1p4pp/p3p3/P4pN1/8/1P1Pp3/2P3q1/R2KQ3 w - - 0 31",
+    "fenAfter": "1k1r3r/1p3Npp/p3p3/P4p2/8/1P1Pp3/2P3q1/R2KQ3 b - - 1 31"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 32,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kc1",
+    "uci": "d1c1",
+    "fenBefore": "1k1r3r/1p3Npp/p3p3/P4p2/6q1/1P1Pp3/2P5/R2KQ3 w - - 2 32",
+    "fenAfter": "1k1r3r/1p3Npp/p3p3/P4p2/6q1/1P1Pp3/2P5/R1K1Q3 b - - 3 32"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 33,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Nxh8",
+    "uci": "f7h8",
+    "fenBefore": "1k1r3r/1p3Npp/p3p3/P7/5pq1/1P1Pp3/2P5/R1K1Q3 w - - 0 33",
+    "fenAfter": "1k1r3N/1p4pp/p3p3/P7/5pq1/1P1Pp3/2P5/R1K1Q3 b - - 0 33"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 34,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qc3",
+    "uci": "e1c3",
+    "fenBefore": "1k5r/1p4pp/p3p3/P7/5pq1/1P1Pp3/2P5/R1K1Q3 w - - 0 34",
+    "fenAfter": "1k5r/1p4pp/p3p3/P7/5pq1/1PQPp3/2P5/R1K5 b - - 1 34"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 35,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kb2",
+    "uci": "c1b2",
+    "fenBefore": "1k5r/1p4pp/p3p3/P7/5p2/1PQPp3/2P5/R1K3q1 w - - 2 35",
+    "fenAfter": "1k5r/1p4pp/p3p3/P7/5p2/1PQPp3/1KP5/R5q1 b - - 3 35"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 36,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qe5+",
+    "uci": "c3e5",
+    "fenBefore": "1k5r/1p4pp/p3p1q1/P7/5p2/1PQPp3/1KP5/R7 w - - 4 36",
+    "fenAfter": "1k5r/1p4pp/p3p1q1/P3Q3/5p2/1P1Pp3/1KP5/R7 b - - 5 36"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 37,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qxf4",
+    "uci": "e5f4",
+    "fenBefore": "k6r/1p4pp/p3p1q1/P3Q3/5p2/1P1Pp3/1KP5/R7 w - - 6 37",
+    "fenAfter": "k6r/1p4pp/p3p1q1/P7/5Q2/1P1Pp3/1KP5/R7 b - - 0 37"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 38,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Qxf6",
+    "uci": "f4f6",
+    "fenBefore": "k6r/1p4pp/p3pq2/P7/5Q2/1P1Pp3/1KP5/R7 w - - 1 38",
+    "fenAfter": "k6r/1p4pp/p3pQ2/P7/8/1P1Pp3/1KP5/R7 b - - 0 38"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 39,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Re1",
+    "uci": "a1e1",
+    "fenBefore": "k6r/1p5p/p3pp2/P7/8/1P1Pp3/1KP5/R7 w - - 0 39",
+    "fenAfter": "k6r/1p5p/p3pp2/P7/8/1P1Pp3/1KP5/4R3 b - - 1 39"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 40,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rxe3",
+    "uci": "e1e3",
+    "fenBefore": "k6r/1p6/p3pp2/P6p/8/1P1Pp3/1KP5/4R3 w - h6 0 40",
+    "fenAfter": "k6r/1p6/p3pp2/P6p/8/1P1PR3/1KP5/8 b - - 0 40"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 41,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rf3",
+    "uci": "e3f3",
+    "fenBefore": "k6r/1p6/p4p2/P3p2p/8/1P1PR3/1KP5/8 w - - 0 41",
+    "fenAfter": "k6r/1p6/p4p2/P3p2p/8/1P1P1R2/1KP5/8 b - - 1 41"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 42,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kc1",
+    "uci": "b2c1",
+    "fenBefore": "k7/1p6/p4p1r/P3p2p/8/1P1P1R2/1KP5/8 w - - 2 42",
+    "fenAfter": "k7/1p6/p4p1r/P3p2p/8/1P1P1R2/2P5/2K5 b - - 3 42"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 43,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rh3",
+    "uci": "f3h3",
+    "fenBefore": "k7/1p6/p4p1r/P3p3/7p/1P1P1R2/2P5/2K5 w - - 0 43",
+    "fenAfter": "k7/1p6/p4p1r/P3p3/7p/1P1P3R/2P5/2K5 b - - 1 43"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 44,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kd2",
+    "uci": "c1d2",
+    "fenBefore": "k7/1p6/p6r/P3pp2/7p/1P1P3R/2P5/2K5 w - - 0 44",
+    "fenAfter": "k7/1p6/p6r/P3pp2/7p/1P1P3R/2PK4/8 b - - 1 44"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 45,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Ke3",
+    "uci": "d2e3",
+    "fenBefore": "1k6/1p6/p6r/P3pp2/7p/1P1P3R/2PK4/8 w - - 2 45",
+    "fenAfter": "1k6/1p6/p6r/P3pp2/7p/1P1PK2R/2P5/8 b - - 3 45"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 46,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "d4",
+    "uci": "d3d4",
+    "fenBefore": "8/1pk5/p6r/P3pp2/7p/1P1PK2R/2P5/8 w - - 4 46",
+    "fenAfter": "8/1pk5/p6r/P3pp2/3P3p/1P2K2R/2P5/8 b - - 0 46"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 47,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "dxe5+",
+    "uci": "d4e5",
+    "fenBefore": "8/1p6/p2k3r/P3pp2/3P3p/1P2K2R/2P5/8 w - - 1 47",
+    "fenAfter": "8/1p6/p2k3r/P3Pp2/7p/1P2K2R/2P5/8 b - - 0 47"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 48,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kf3",
+    "uci": "e3f3",
+    "fenBefore": "8/1p6/p6r/P3kp2/7p/1P2K2R/2P5/8 w - - 0 48",
+    "fenAfter": "8/1p6/p6r/P3kp2/7p/1P3K1R/2P5/8 b - - 1 48"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 49,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Kf4",
+    "uci": "f3f4",
+    "fenBefore": "8/1p6/p6r/P4p2/3k3p/1P3K1R/2P5/8 w - - 2 49",
+    "fenAfter": "8/1p6/p6r/P4p2/3k1K1p/1P5R/2P5/8 b - - 3 49"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 50,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "Rd3+",
+    "uci": "h3d3",
+    "fenBefore": "8/1p6/p7/P4p1r/3k1K1p/1P5R/2P5/8 w - - 4 50",
+    "fenAfter": "8/1p6/p7/P4p1r/3k1K1p/1P1R4/2P5/8 b - - 5 50"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 51,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "c3",
+    "uci": "c2c3",
+    "fenBefore": "8/1p6/p7/P1k2p1r/5K1p/1P1R4/2P5/8 w - - 6 51",
+    "fenAfter": "8/1p6/p7/P1k2p1r/5K1p/1PPR4/8/8 b - - 0 51"
+  },
+  {
+    "gameIdx": 4,
+    "moveNum": 52,
+    "playerColor": "w",
+    "opponent": "vijayasaharan (1324)",
+    "san": "b4+",
+    "uci": "b3b4",
+    "fenBefore": "8/1p6/p7/P1k2p1r/5K2/1PPR3p/8/8 w - - 0 52",
+    "fenAfter": "8/1p6/p7/P1k2p1r/1P3K2/2PR3p/8/8 b - - 0 52"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 3,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bg4",
+    "uci": "c8g4",
+    "fenBefore": "rnbqkbnr/pp2pppp/3p4/2p5/4P3/2N2N2/PPPP1PPP/R1BQKB1R b KQkq - 1 3",
+    "fenAfter": "rn1qkbnr/pp2pppp/3p4/2p5/4P1b1/2N2N2/PPPP1PPP/R1BQKB1R w KQkq - 2 4"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 4,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bh5",
+    "uci": "g4h5",
+    "fenBefore": "rn1qkbnr/pp2pppp/3p4/2p5/4P1b1/2N2N1P/PPPP1PP1/R1BQKB1R b KQkq - 0 4",
+    "fenAfter": "rn1qkbnr/pp2pppp/3p4/2p4b/4P3/2N2N1P/PPPP1PP1/R1BQKB1R w KQkq - 1 5"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 5,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Nc6",
+    "uci": "b8c6",
+    "fenBefore": "rn1qkbnr/pp2pppp/3p4/2p4b/2B1P3/2N2N1P/PPPP1PP1/R1BQK2R b KQkq - 2 5",
+    "fenAfter": "r2qkbnr/pp2pppp/2np4/2p4b/2B1P3/2N2N1P/PPPP1PP1/R1BQK2R w KQkq - 3 6"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 6,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "a6",
+    "uci": "a7a6",
+    "fenBefore": "r2qkbnr/pp2pppp/2np4/2p4b/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R b KQkq - 0 6",
+    "fenAfter": "r2qkbnr/1p2pppp/p1np4/2p4b/2B1P3/2NP1N1P/PPP2PP1/R1BQK2R w KQkq - 0 7"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 7,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bxf3",
+    "uci": "h5f3",
+    "fenBefore": "r2qkbnr/1p2pppp/p1np4/2p4b/P1B1P3/2NP1N1P/1PP2PP1/R1BQK2R b KQkq a3 0 7",
+    "fenAfter": "r2qkbnr/1p2pppp/p1np4/2p5/P1B1P3/2NP1b1P/1PP2PP1/R1BQK2R w KQkq - 0 8"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 8,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Ne5",
+    "uci": "c6e5",
+    "fenBefore": "r2qkbnr/1p2pppp/p1np4/2p5/P1B1P3/2NP1Q1P/1PP2PP1/R1B1K2R b KQkq - 0 8",
+    "fenAfter": "r2qkbnr/1p2pppp/p2p4/2p1n3/P1B1P3/2NP1Q1P/1PP2PP1/R1B1K2R w KQkq - 1 9"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 9,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Nxc4",
+    "uci": "e5c4",
+    "fenBefore": "r2qkbnr/1p2pppp/p2p4/2p1n3/P1B1P3/2NP2QP/1PP2PP1/R1B1K2R b KQkq - 2 9",
+    "fenAfter": "r2qkbnr/1p2pppp/p2p4/2p5/P1n1P3/2NP2QP/1PP2PP1/R1B1K2R w KQkq - 0 10"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 10,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "e5",
+    "uci": "e7e5",
+    "fenBefore": "r2qkbnr/1p2pppp/p2p4/2p5/P1P1P3/2N3QP/1PP2PP1/R1B1K2R b KQkq - 0 10",
+    "fenAfter": "r2qkbnr/1p3ppp/p2p4/2p1p3/P1P1P3/2N3QP/1PP2PP1/R1B1K2R w KQkq e6 0 11"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 11,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Nf6",
+    "uci": "g8f6",
+    "fenBefore": "r2qkbnr/1p3ppp/p2p4/2pNp3/P1P1P3/6QP/1PP2PP1/R1B1K2R b KQkq - 1 11",
+    "fenAfter": "r2qkb1r/1p3ppp/p2p1n2/2pNp3/P1P1P3/6QP/1PP2PP1/R1B1K2R w KQkq - 2 12"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 12,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Be7",
+    "uci": "f8e7",
+    "fenBefore": "r2qkb1r/1p3ppp/p2p1n2/2pNp1B1/P1P1P3/6QP/1PP2PP1/R3K2R b KQkq - 3 12",
+    "fenAfter": "r2qk2r/1p2bppp/p2p1n2/2pNp1B1/P1P1P3/6QP/1PP2PP1/R3K2R w KQkq - 4 13"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 13,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bxf6",
+    "uci": "e7f6",
+    "fenBefore": "r2qk2r/1p2bppp/p2p1B2/2pNp3/P1P1P3/6QP/1PP2PP1/R3K2R b KQkq - 0 13",
+    "fenAfter": "r2qk2r/1p3ppp/p2p1b2/2pNp3/P1P1P3/6QP/1PP2PP1/R3K2R w KQkq - 0 14"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 14,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "O-O",
+    "uci": "e8g8",
+    "fenBefore": "r2qk2r/1p3ppp/p2p1b2/2pNp3/P1P1P3/6QP/1PP2PP1/R4RK1 b kq - 1 14",
+    "fenAfter": "r2q1rk1/1p3ppp/p2p1b2/2pNp3/P1P1P3/6QP/1PP2PP1/R4RK1 w - - 2 15"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 15,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Kh8",
+    "uci": "g8h8",
+    "fenBefore": "r2q1rk1/1p3ppp/p2p1b2/2pNp3/P1P1PP2/6QP/1PP3P1/R4RK1 b - f3 0 15",
+    "fenAfter": "r2q1r1k/1p3ppp/p2p1b2/2pNp3/P1P1PP2/6QP/1PP3P1/R4RK1 w - - 1 16"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 16,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bh4",
+    "uci": "f6h4",
+    "fenBefore": "r2q1r1k/1p3ppp/p2p1b2/2pNp3/P1P1PP2/2P3QP/1P4P1/R4RK1 b - - 0 16",
+    "fenAfter": "r2q1r1k/1p3ppp/p2p4/2pNp3/P1P1PP1b/2P3QP/1P4P1/R4RK1 w - - 1 17"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 17,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "f5",
+    "uci": "f7f5",
+    "fenBefore": "r2q1r1k/1p3ppp/p2p4/2pNp3/P1P1PP1b/2P2Q1P/1P4P1/R4RK1 b - - 2 17",
+    "fenAfter": "r2q1r1k/1p4pp/p2p4/2pNpp2/P1P1PP1b/2P2Q1P/1P4P1/R4RK1 w - f6 0 18"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 18,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "fxe4",
+    "uci": "f5e4",
+    "fenBefore": "r2q1r1k/1p4pp/p2p4/2pNpp2/P1P1PP1b/2P2QPP/1P6/R4RK1 b - - 0 18",
+    "fenAfter": "r2q1r1k/1p4pp/p2p4/2pNp3/P1P1pP1b/2P2QPP/1P6/R4RK1 w - - 0 19"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 19,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "exf4",
+    "uci": "e5f4",
+    "fenBefore": "r2q1r1k/1p4pp/p2p4/2pNp3/P1P1pP1b/2P1Q1PP/1P6/R4RK1 b - - 1 19",
+    "fenAfter": "r2q1r1k/1p4pp/p2p4/2pN4/P1P1pp1b/2P1Q1PP/1P6/R4RK1 w - - 0 20"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 20,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Rxf4",
+    "uci": "f8f4",
+    "fenBefore": "r2q1r1k/1p4pp/p2p4/2pN4/P1P1pR1b/2P1Q1PP/1P6/R5K1 b - - 0 20",
+    "fenAfter": "r2q3k/1p4pp/p2p4/2pN4/P1P1pr1b/2P1Q1PP/1P6/R5K1 w - - 0 21"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 21,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bg5",
+    "uci": "h4g5",
+    "fenBefore": "r2q3k/1p4pp/p2p4/2pN4/P1P1pQ1b/2P3PP/1P6/R5K1 b - - 0 21",
+    "fenAfter": "r2q3k/1p4pp/p2p4/2pN2b1/P1P1pQ2/2P3PP/1P6/R5K1 w - - 1 22"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 22,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Qf8",
+    "uci": "d8f8",
+    "fenBefore": "r2q3k/1p4pp/p2p4/2pN2b1/P1P1Q3/2P3PP/1P6/R5K1 b - - 0 22",
+    "fenAfter": "r4q1k/1p4pp/p2p4/2pN2b1/P1P1Q3/2P3PP/1P6/R5K1 w - - 1 23"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 23,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Qd8",
+    "uci": "f8d8",
+    "fenBefore": "r4q1k/1p4pp/p2p4/2pN2b1/P1P1Q3/2P3PP/1P6/5RK1 b - - 2 23",
+    "fenAfter": "r2q3k/1p4pp/p2p4/2pN2b1/P1P1Q3/2P3PP/1P6/5RK1 w - - 3 24"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 24,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bh6",
+    "uci": "g5h6",
+    "fenBefore": "r2q3k/1p4pp/p2p4/2pN2b1/P1P1Q2P/2P3P1/1P6/5RK1 b - - 0 24",
+    "fenAfter": "r2q3k/1p4pp/p2p3b/2pN4/P1P1Q2P/2P3P1/1P6/5RK1 w - - 1 25"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 25,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Qg8",
+    "uci": "d8g8",
+    "fenBefore": "r2q3k/1p3Rpp/p2p3b/2pN4/P1P1Q2P/2P3P1/1P6/6K1 b - - 2 25",
+    "fenAfter": "r5qk/1p3Rpp/p2p3b/2pN4/P1P1Q2P/2P3P1/1P6/6K1 w - - 3 26"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 26,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Re8",
+    "uci": "a8e8",
+    "fenBefore": "r5qk/1R4pp/p2p3b/2pN4/P1P1Q2P/2P3P1/1P6/6K1 b - - 0 26",
+    "fenAfter": "4r1qk/1R4pp/p2p3b/2pN4/P1P1Q2P/2P3P1/1P6/6K1 w - - 1 27"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 27,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Be3+",
+    "uci": "h6e3",
+    "fenBefore": "4r1qk/1R4pp/p2p3b/2pN1Q2/P1P4P/2P3P1/1P6/6K1 b - - 2 27",
+    "fenAfter": "4r1qk/1R4pp/p2p4/2pN1Q2/P1P4P/2P1b1P1/1P6/6K1 w - - 3 28"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 28,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bc1",
+    "uci": "e3c1",
+    "fenBefore": "4r1qk/1R4pp/p2p4/2pN1Q2/P1P4P/2P1b1P1/1P4K1/8 b - - 4 28",
+    "fenAfter": "4r1qk/1R4pp/p2p4/2pN1Q2/P1P4P/2P3P1/1P4K1/2b5 w - - 5 29"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 29,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Re2+",
+    "uci": "e8e2",
+    "fenBefore": "4r1qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3P1/1P4K1/2b5 b - - 0 29",
+    "fenAfter": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3P1/1P2r1K1/2b5 w - - 1 30"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 30,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Re1",
+    "uci": "e2e1",
+    "fenBefore": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P2KP1/1P2r3/2b5 b - - 2 30",
+    "fenAfter": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P2KP1/1P6/2b1r3 w - - 3 31"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 31,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Re2+",
+    "uci": "e1e2",
+    "fenBefore": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3P1/1P4K1/2b1r3 b - - 4 31",
+    "fenAfter": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3P1/1P2r1K1/2b5 w - - 5 32"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 32,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bxb2",
+    "uci": "c1b2",
+    "fenBefore": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3PK/1P2r3/2b5 b - - 6 32",
+    "fenAfter": "6qk/1R4pp/p2p4/2pN1Q1P/P1P5/2P3PK/1b2r3/8 w - - 0 33"
+  },
+  {
+    "gameIdx": 5,
+    "moveNum": 33,
+    "playerColor": "b",
+    "opponent": "Mahmoud_vega (1327)",
+    "san": "Bxc3",
+    "uci": "b2c3",
+    "fenBefore": "6qk/1R4pp/p2p3P/2pN1Q2/P1P5/2P3PK/1b2r3/8 b - - 0 33",
+    "fenAfter": "6qk/1R4pp/p2p3P/2pN1Q2/P1P5/2b3PK/4r3/8 w - - 0 34"
+  }
+]

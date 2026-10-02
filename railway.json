@@ -1,0 +1,11 @@
+{
+  "build": {
+    "builder": "DOCKERFILE"
+  },
+  "deploy": {
+    "startCommand": "python -u server.py",
+    "healthcheckPath": "/",
+    "restartPolicyType": "ON_FAILURE",
+    "restartPolicyMaxRetries": 3
+  }
+}

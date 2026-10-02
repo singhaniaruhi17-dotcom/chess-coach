@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+node_modules/
+engine/stockfish/stockfish-windows-x86-64-universal.exe
+engine/src/
+engine/scripts/
+engine/wiki/
+temp_index.html
+bad.js
+patch.py
+patch1.js
+brace.py
+build_vault.js
+process_vault.py
+anki_sync.py
+.git/
